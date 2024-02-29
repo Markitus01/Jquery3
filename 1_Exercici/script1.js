@@ -44,7 +44,7 @@ function main()
 
     $(".hover").click(function()
     {
-        // Order
+        // Ordenar
     })
 }
 
